@@ -15,4 +15,4 @@ dependencies:
   - scikit-image
   - scikit-learn
   - sympy
-  - plotify
+  - plotly
